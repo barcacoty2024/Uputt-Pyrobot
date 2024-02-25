@@ -22,7 +22,7 @@ from Uputt.helpers.tools import get_arg
 from .help import *
 
 DEF_UNAPPROVED_MSG = (
-    "PMSecurity of ㅤ˹ 𝚄𝙿𝚄𝚃𝚃-𝙿𝚈𝚁𝙾𝙱𝙾𝚃 ˼ !\n"
+    "PMSecurity of ㅤ˹ Dan-𝙿𝚈𝚁𝙾𝙱𝙾𝚃 ˼ !\n"
 "•Please wait for me to respond or you will be blocked!!🚫\n"
 )
 
