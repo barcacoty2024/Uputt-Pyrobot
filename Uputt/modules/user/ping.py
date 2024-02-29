@@ -80,7 +80,7 @@ async def pingme(client: Client, message: Message):
     await message.reply_text(
         f"❏ **Pong !!**\n"
         f"**├• ** `%sms`\n"
-        f"╰•** ᴅᴀᴊᴊᴀʟ :** {client.me.mention}" % (duration)
+        f"╰•** Owner :** {client.me.mention}" % (duration)
     )
 
 
