@@ -37,11 +37,11 @@ alive_logo = random.choice(logouputt)
 async def start(app, message):
     chat_id = message.chat.id
     file_id = alive_logo
-    caption = "Hi, Saya Asisstant Uputt-Pyrobot\nTidak Ada Yang Special Kecuali Indomie."
+    caption = "Hi, Saya Asisstant Wildan-Pyrobot\nTidak Ada Yang Special Kecuali Indomie."
     reply_markup = InlineKeyboardMarkup([
         [
-            InlineKeyboardButton("Support", url="https://t.me/UputtSupport"),
-            InlineKeyboardButton("Channel", url="https://t.me/amneseey0u"),
+            InlineKeyboardButton("Support", url="https://t.me/Disney_storeDan"),
+            InlineKeyboardButton("Channel", url="https://t.me/mhmdwldnnnn"),
         ],
     ])
 
